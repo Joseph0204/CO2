@@ -1,0 +1,5 @@
+pycaret
+numpy
+pandas
+streamlit
+catboost
